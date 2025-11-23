@@ -1,5 +1,9 @@
 # 📌 Personal Health Insights App — **FitMatrix**
 
+**Repository:** https://github.com/anushkagupta65/FitMatrix 
+**Project Name:** `FitMatrix`
+
+
 A Flutter app that helps users **track, visualize, and analyze personal health metrics** with a clean and modern UI/UX.
 
 ---
@@ -17,7 +21,7 @@ A Flutter app that helps users **track, visualize, and analyze personal health m
 
 ---
 
-## 📂 Updated Project Folder Structure
+## 📂 Project Folder Structure
 
 ```
 
@@ -26,12 +30,7 @@ lib/
 ├── data
 │   ├── models
 │   │   ├── metric.dart
-│   │   └── data_sample.dart
-│   └── repository
-│       └── storage_repository.dart
-├── domain
-│   └── usecases
-│       └── metrics_usecase.dart
+│   │── data_sample.dart
 ├── presentation
 │   ├── screens
 │   │   ├── splash_screen.dart
@@ -96,10 +95,7 @@ dev_dependencies:
 
 | Screenshot 1                             | Screenshot 2                             | Screenshot 3                             |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| ![WhatsApp Image 2025-11-23 at 9 54 02 PM (1)](https://github.com/user-attachments/assets/cef34f75-cee6-47fe-a172-bbc0cc6fb47f)
- | ![WhatsApp Image 2025-11-23 at 9 54 02 PM (2)](https://github.com/user-attachments/assets/554b104a-149e-4d2c-a7d5-ecdd38b9e35f)
- | ![WhatsApp Image 2025-11-23 at 9 54 03 PM](https://github.com/user-attachments/assets/2fffca69-93ac-4eec-99f1-8ca3ff67e002)
- |
+| ![WhatsApp Image 2025-11-23 at 9 54 02 PM (1)](https://github.com/user-attachments/assets/cef34f75-cee6-47fe-a172-bbc0cc6fb47f) | ![WhatsApp Image 2025-11-23 at 9 54 02 PM (2)](https://github.com/user-attachments/assets/554b104a-149e-4d2c-a7d5-ecdd38b9e35f) | ![WhatsApp Image 2025-11-23 at 9 54 03 PM](https://github.com/user-attachments/assets/2fffca69-93ac-4eec-99f1-8ca3ff67e002) |
 
 </details>
 
@@ -108,10 +104,7 @@ dev_dependencies:
 
 | Screenshot 1                           | Screenshot 2                           | Screenshot 3                           |
 | -------------------------------------- | -------------------------------------- | -------------------------------------- |
-| ![WhatsApp Image 2025-11-23 at 9 54 01 PM](https://github.com/user-attachments/assets/de99a1e9-3404-4937-a39e-f543312e523a)
- | ![WhatsApp Image 2025-11-23 at 9 54 01 PM (1)](https://github.com/user-attachments/assets/2a307105-1760-4269-b0a6-432d321d9ef2)
- | ![WhatsApp Image 2025-11-23 at 9 54 02 PM](https://github.com/user-attachments/assets/1475c16c-e55f-4e2d-ad61-7f869c833594)
- |
+| ![WhatsApp Image 2025-11-23 at 9 54 01 PM](https://github.com/user-attachments/assets/de99a1e9-3404-4937-a39e-f543312e523a) | ![WhatsApp Image 2025-11-23 at 9 54 01 PM (1)](https://github.com/user-attachments/assets/2a307105-1760-4269-b0a6-432d321d9ef2) | ![WhatsApp Image 2025-11-23 at 9 54 02 PM](https://github.com/user-attachments/assets/1475c16c-e55f-4e2d-ad61-7f869c833594) |
 
 </details>
 
@@ -145,7 +138,3 @@ flutter run
 * Export metrics to PDF
 
 ---
-
-### 🏷 License
-
-This project is licensed under the **MIT License**.
