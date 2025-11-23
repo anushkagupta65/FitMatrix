@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945799435442",
+    "project_id": "fitmatrix-6046c",
+    "storage_bucket": "fitmatrix-6046c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945799435442:android:72a3a541533c085a2ba5ab",
+        "android_client_info": {
+          "package_name": "com.example.health_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWEQZtxUPFGGvXiHFOepWxJyX99Popyj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
