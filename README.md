@@ -50,7 +50,7 @@ lib/
 
 ---
 
-## 📦 Updated `pubspec.yaml` Dependencies
+## 📦 `pubspec.yaml` Dependencies
 
 ```yaml
 dependencies:
